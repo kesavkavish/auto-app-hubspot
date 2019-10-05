@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Orange Hrm Live application test suite]">
+  <test thread-count="5" name="Orange Hrm Live test(failed)">
+    <classes>
+      <class name="com.hubspot.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="hubspotLoginPageTitleTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.hubspot.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Orange Hrm Live test(failed) -->
+</suite> <!-- Failed suite [Orange Hrm Live application test suite] -->
